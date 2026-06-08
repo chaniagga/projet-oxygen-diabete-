@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="diabete_type_1">
+    <title>Diabète de type 1</title>
+    <conbody>
+        <p>Le diabète de type 1 est une maladie auto-immune chronique caractérisée par la destruction progressive et irréversible des cellules bêta du pancréas.</p>
+        
+        <p>Cette destruction entraîne une absence totale de production d'insuline, hormone essentielle à la régulation de la glycémie.</p>
+    
+        <p>Le traitement repose exclusivement sur l'insulinothérapie externe.</p>
+    <note type="important">
+        Les patients atteints de diabète de type 1 présentent un risque élevé d'acidocétose (élévation de l'acidité du sang) en cas d'arrêt de traitement.
+    </note>
+    
+    
+    </conbody>
+</concept>

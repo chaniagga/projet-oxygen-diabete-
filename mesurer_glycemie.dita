@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="mesure_glycemie">
+    <title>Mesurer la glycémie capillaire</title>
+    <taskbody>
+        <context>  La mesure de la glycémie capillaire est un acte courant permettant d'évaluer le taux de glucose sanguin. Ce protocole médical est expliqué ci-dessous :  
+        </context>
+        <steps>
+            <step>
+                <cmd>Vérifier l'identité du patient</cmd>
+            </step>
+            <step>
+                <cmd>Installer le patient dans de bonnes conditions</cmd>
+            </step>
+            <step>
+                <cmd>Préparer le lecteur de glycémie</cmd>
+            </step>
+            <step>
+                <cmd>Désinfecter le doigt du patient</cmd>
+            </step>
+            <step>
+                <cmd>Réaliser la piqûre capillaire</cmd>
+            </step>
+            <step>
+                <cmd>Appliquer la goutte de sang sur la bandelette</cmd>
+            </step>
+            <step>
+                <cmd>Lire le résultat</cmd>
+            </step>
+            <step>
+                <cmd>Vérifier l'identité du patient</cmd>
+            </step>
+            <step>
+                <cmd>Noter la valeur dans le dossier patient</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

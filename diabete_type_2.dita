@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="diabete_type_2">
+    <title>Diabète de type 2</title>
+    <conbody>
+        <p>Le diabète de type 2 est une maladie métabolique chronique caractérisée par une résistance à l'insuline associée à une diminution progressive de la sécrétion d'insuline.</p>
+    
+        <p>Il représente la forme la plus fréquente de diabète.</p>
+        
+        <p>Son évolution est progressive et souvent silencieuse, ce qui retarde le diagnostic</p>
+    
+    <note type="note">Le diabète de type 2 est fortement lié au mode de vie et aux facteurs environnementaux.</note>
+   <ul>
+       <li><b>Facteurs de risque :</b> obésité, sédentarité</li>  
+       <li><b>Traitement initial :</b> meilleure hygiène de vie</li>  
+       <li><b>Traitement secondaire : </b>insulinothérapie</li>      
+   </ul>
+    
+    
+    
+    
+    </conbody>
+</concept>

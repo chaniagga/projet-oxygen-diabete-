@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="insuline">
+    <title>Administrer une injection d'insuline</title>
+  <taskbody>
+        <context> L'administration d'insuline est un acte thérapeutique essentiel dans la prise en charge du diabète. Ce protole médical est expliqué ci-dessous : 
+        </context>
+        <steps>
+            <step>
+                <cmd>Vérifier la prescription médicale</cmd>
+            </step>
+            <step>
+                <cmd>Vérifier la prescription médicale</cmd>
+            </step>
+            <step>
+                <cmd>Contrôler la glycémie avant injection (pour la procédure, consulter la page :<xref href="mesurer_glycemie-v1.dita"/>)</cmd>
+            </step>
+            <step>
+                <cmd>Préparer la dose d'insuline</cmd>
+            </step>
+            <step>
+                <cmd>Choisir le site d'injection</cmd>
+            </step>
+            <step>
+                <cmd>Réaliser l'injection</cmd>
+            </step>
+            <step>
+                <cmd>Surveiller le patient après injection afin d'éviter tout risque d'hypoglycémie post-injection</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="valeurs_de_glycemie">
+    <title>Valeurs de glycémie</title>
+    <shortdesc>Ci-dessous les différentes valeurs de glycémie pour comparaison.</shortdesc>
+    <refbody>
+        <simpletable>
+          <sthead>
+              <stentry>Situation</stentry>
+              <stentry>Valeur (g/L)</stentry>
+          </sthead>
+            <strow>
+                <stentry>Normale à jeun</stentry>
+                <stentry>entre 0.70 et 1.10</stentry>
+            </strow>
+            <strow>
+                <stentry>Pré-diabète</stentry>
+                <stentry>entre 1.10 et 1.25</stentry>
+            </strow>
+            <strow>
+                <stentry>Diabète</stentry>
+                <stentry>supérieure ou égale à 1.26</stentry>
+            </strow>
+            <strow>
+                <stentry>Hypoglycémie</stentry>
+                <stentry>inférieure à 0.70</stentry>
+            </strow>
+        </simpletable>
+        
+        
+    </refbody>
+</reference>
