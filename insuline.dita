@@ -13,7 +13,7 @@
                 <cmd>Vérifier la prescription médicale</cmd>
             </step>
             <step>
-                <cmd>Contrôler la glycémie avant injection (pour la procédure, consulter la page :<xref href="mesurer_glycemie-v1.dita"/>)</cmd>
+                <cmd>Contrôler la glycémie avant injection (pour la procédure, consulter la page :<xref href="mesurer_glycemie.dita"/>)</cmd>
             </step>
             <step>
                 <cmd>Préparer la dose d'insuline</cmd>
@@ -23,6 +23,9 @@
             </step>
             <step>
                 <cmd>Réaliser l'injection</cmd>
+            </step>
+            <step>
+                <cmd>Désinfecter le site d'injection</cmd>
             </step>
             <step>
                 <cmd>Surveiller le patient après injection afin d'éviter tout risque d'hypoglycémie post-injection</cmd>
