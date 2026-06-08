@@ -31,6 +31,9 @@
                 <cmd>Vérifier l'identité du patient</cmd>
             </step>
             <step>
+                <cmd>Identifier si la valeur indique une hypoglycémie ou une hyperglycémie</cmd>
+            </step>
+            <step>
                 <cmd>Noter la valeur dans le dossier patient</cmd>
             </step>
         </steps>

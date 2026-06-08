@@ -4,23 +4,44 @@
     <title>Types d'insuline</title>
     <shortdesc>Ci-dessous sont présentés les types d'insuline et leur action.</shortdesc>
     <refbody>
-    <simpletable>
-        <sthead>
-            <stentry>Type</stentry>
-            <stentry>Action</stentry>
-        </sthead>
-        <strow>
-           <stentry>Rapide</stentry> 
-           <stentry>agit rapidement après injection</stentry> 
-        </strow>
-        <strow>
-            <stentry>Lente</stentry> 
-            <stentry>action prolongée sur 24h</stentry> 
-        </strow>
-        <strow>
-            <stentry>Mixte</stentry> 
-            <stentry>combine action rapide et lente</stentry> 
-        </strow>
-    </simpletable>
+        <simpletable>
+            <sthead>
+                <stentry>Type</stentry>
+                <stentry>Action</stentry>
+            </sthead>
+            <strow>
+                <stentry>Rapide</stentry> 
+                <stentry>agit rapidement après injection</stentry> 
+            </strow>
+            <strow>
+                <stentry>Lente</stentry> 
+                <stentry>action prolongée sur 24h</stentry> 
+            </strow>
+            <strow>
+                <stentry>Mixte</stentry> 
+                <stentry>combine action rapide et lente</stentry> 
+            </strow>
+        </simpletable>
+        <section>
+            <title>Dispositifs de surveillance glycémique</title>
+            <simpletable>
+                <strow>
+                    <stentry><b>Dispositif</b></stentry>
+                    <stentry><b>Description</b></stentry>
+                </strow>
+                <strow>
+                    <stentry>Lecteur de glycémie</stentry>
+                    <stentry>mesure ponctuelle du glucose sanguin</stentry>
+                </strow>
+                <strow>
+                    <stentry>Capteur de glucose en continu</stentry>
+                    <stentry>mesure automatique des variations glycémiques</stentry>
+                </strow>
+                <strow>
+                    <stentry>Application mobile associée</stentry>
+                    <stentry>consultation des données et alertes</stentry>
+                </strow>
+            </simpletable>
+        </section>
     </refbody>
 </reference>

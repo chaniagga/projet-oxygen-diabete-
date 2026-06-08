@@ -6,12 +6,17 @@
         <p>Le diabète de type 1 est une maladie auto-immune chronique caractérisée par la destruction progressive et irréversible des cellules bêta du pancréas.</p>
         
         <p>Cette destruction entraîne une absence totale de production d'insuline, hormone essentielle à la régulation de la glycémie.</p>
-    
+        
         <p>Le traitement repose exclusivement sur l'insulinothérapie externe.</p>
-    <note type="important">
-        Les patients atteints de diabète de type 1 présentent un risque élevé d'acidocétose (élévation de l'acidité du sang) en cas d'arrêt de traitement.
-    </note>
-    
-    
+        <note type="important">
+            Les patients atteints de diabète de type 1 présentent un risque élevé d'acidocétose (élévation de l'acidité du sang) en cas d'arrêt de traitement.
+        </note>
+        
+        <section>
+            <title>Surveillance continue du glucose</title>
+            <p>Les patients atteints de diabète de type 1 peuvent utiliser un capteur de glucose en continu permettant de mesurer automatiquement les variations glycémiques.</p>
+            <p> Ces dispositifs réduisent le nombre de prélèvements capillaires.</p>
+        </section>
+        
     </conbody>
 </concept>
